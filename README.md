@@ -19,4 +19,8 @@ we have 6 members
 
 ## What is Fishtopia
 
-Fishtopia is the game project for people who looking for fishing game in the pixel theme
+Fishtopia is the game project for people who looking for fishing game in the 2D-pixel art, it is a stilmulation game on the cat island that we called them "Kittezens" and the player will play the human character name "Finn" who has to fishing for collecting the money and run the business from his grand father.
+
+![examplePicture](https://i.pinimg.com/1200x/01/c4/a7/01c4a75f84afb1bd370f9dd561e1fcd5.jpg)
+
+## How to make this project perfect
