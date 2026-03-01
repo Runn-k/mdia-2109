@@ -1,53 +1,22 @@
-# Welcome to my 2109 repository
+<!-- - share what your project is for the semester and who your teammates are
+- share what you would like to focus on making perfect in your project
 
-This is me testing out a single commit! When I `commit changes...` on this file, it will save a snapshot that I can revert to at any point in time.
+- it should NOT just be completing Project I
 
-## Which animal do I like?
+- it should NOT be identical to what a teammate is focussing on
+  share a brief action plan for implementation (what you need to study up on, and how it relates to your learning plan, if applicable) -->
 
-- [x] Red panda
-- [x] Dog
-- [x] Tiger
-- [ ] Spider
+# FISHTOPIA is our group project
 
-## What do I like to drink?
+we have 6 members
 
-- [ ] Iced coffee
-- [ ] Bubble tea
+- [x] Nikka
+- [x] Carson
+- [x] Phillip
+- [x] Tracy
+- [x] Athena
+- [x] Me...Runn
 
-## This is a dinosuar ASCII art from Art by Shanaka Dias.
+## What is Fishtopia
 
-T-rex here he comes!!
-
-```
-        ,
-       /|
-      / |
-     /  /
-    |   |
-   /    |
-   |    \_
-   |      \__
-   \       __\_______
-    \                 \_
-    | /                 \
-    \/                   \
-     |                    |
-     \                   \|
-     |                    \
-     \                     |
-     /\    \_               \
-    / |      \__ (   )       \
-   /  \      / |\\  /       __\____
-snd|  ,     |  /\ \ \__    |       \_
-   \_/|\___/   \   \}}}\__|  (@)     )
-    \)\)\)      \_\---\   \|       \ \
-                  \>\>\>   \   /\__o_o)
-                            | /  VVVVV
-                            \ \    \
-                             \ \MMMMM                  oh bugger!
-                              \______/         _____ /
-                                              |  O O|
-                                             /___|_|/\_
-                                        ==( |          |
-                                             (o)====(o)
-```
+Fishtopia is the game project for people who looking for fishing game in the pixel theme
