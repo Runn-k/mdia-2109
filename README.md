@@ -24,3 +24,19 @@ Fishtopia is the game project for people who looking for fishing game in the 2D-
 ![examplePicture](https://i.pinimg.com/1200x/01/c4/a7/01c4a75f84afb1bd370f9dd561e1fcd5.jpg)
 
 ## How to make this project perfect
+
+For the game project we will contribute all the work together!
+First of all, we brainstorm about our game story, goal of this game, art style 0r graphic. we already have a game document to put aall information and outline for our game design.
+For me, I will focus on the visual graphic and game design sketch, collaborate with other members to be on the same page and have a great result for the prototype.
+
+The list of action plan that we finished are...
+[x] Initial game design document
+[x] Make a kanban board
+[x] Competitive analysis
+[x] Character sketch design
+
+And now we are going to continue the user survey and game design
+[ ] User survey
+
+The action plan in the future are...
+[x]
