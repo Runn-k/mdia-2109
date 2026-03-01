@@ -17,6 +17,8 @@ we have 6 members
 - [x] Athena
 - [x] Me...Runn
 
+![fishtopiaLogo](https://late-coral-pdhwuolscr.edgeone.app/Screenshot%202569-03-01%20at%2015.01.58.png)
+
 ## What is Fishtopia
 
 Fishtopia is the game project for people who looking for fishing game in the 2D-pixel art, it is a stilmulation game on the cat island that we called them "Kittezens" and the player will play the human character name "Finn" who has to fishing for collecting the money and run the business from his grand father.
@@ -26,7 +28,7 @@ Fishtopia is the game project for people who looking for fishing game in the 2D-
 ## How to make this project perfect
 
 For the game project we will contribute all the work together!
-First of all, we brainstorm about our game story, goal of this game, art style 0r graphic. we already have a game document to put aall information and outline for our game design.
+First of all, we brainstorm about our game story, goal of this game, art style 0r graphic. we already have a game document to put aall information and outline for our game design. We have our own responsibility but we will always update each other to
 For me, I will focus on the visual graphic and game design sketch, collaborate with other members to be on the same page and have a great result for the prototype.
 
 The list of action plan that we finished are...
@@ -39,4 +41,5 @@ And now we are going to continue the user survey and game design
 [ ] User survey
 
 The action plan in the future are...
-[x]
+[ ] Work on the characters design, background graphic, icon element, etc. following the art style of the game.
+[ ] Research the game design for making a real prototype.
