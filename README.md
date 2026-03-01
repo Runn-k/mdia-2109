@@ -19,7 +19,7 @@ we have 6 members
 
 This is our logo! created by Carson!
 
-![fishtopiaLogo](https://late-coral-pdhwuolscr.edgeone.app/Screenshot%202569-03-01%20at%2015.01.58.png width=100)
+![fishtopiaLogo](https://late-coral-pdhwuolscr.edgeone.app/Screenshot%202569-03-01%20at%2015.01.58.png | width=100)
 
 ## What is Fishtopia
 
