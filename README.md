@@ -48,3 +48,8 @@ The action plan in the future are...
 
 - [ ] Work on the characters design, background graphic, icon element, etc. following the art style of the game.
 - [ ] Research the game design for making a real prototype.
+
+## Code that we going to use is HTML and CSS
+
+we will create a website to support the game style guide for the Fishtopia that include the graphic and use CSS to create a layout
+I will code the part of decoration the website color layout of the photo use flex or the grid.
